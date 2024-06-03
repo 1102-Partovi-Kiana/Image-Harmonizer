@@ -1,3 +1,5 @@
+# Image Harmonizer 
+
 Languages: C++
 
 - Created an advanced image processing suite capable of seamlessly applying a spectrum of complex effects, including intricate operations like sharpening, blurring, and intricate transformations.
